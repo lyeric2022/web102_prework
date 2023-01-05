@@ -35,6 +35,7 @@ GIF created with LICEcap
 One of the main challenges I faced while completing the web102 prework was working with higher-order functions like filter and reduce. It was challenging to wrap my head around the idea of passing a function to these functions as an argument. I spent a lot of time practicing and experimenting to get a better familiarity. The ternary operator (?) and template strings were new to me, and it took some time to understand how to use them effectively. Initially, the concepts of destructuring and the spread operator were confusing, but after additional reading and practicing, I got a better understanding. Overall, the web102 prework was a great learning experience, and I am confident in my intermediate JavaScript skills.
 
 ## License
+![SeaFunded Games Features Walkthrough - Imgur (1)](https://user-images.githubusercontent.com/111820150/210749557-25c711b2-7441-45cf-8307-ef878e3de6f9.gif)
 
     Copyright 2023 Eric Ly
 
