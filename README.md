@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/OR05Ccg' title='Seafunded Games Video Walkthrough' width='' alt='Seafunded Games Video Walkthrough' />
+<img src=[Imgur](https://imgur.com/dZyZdxs)' title='Seafunded Games Video Walkthrough' width='' alt='Seafunded Games Video Walkthrough' />
 
 GIF created with LICEcap
 
